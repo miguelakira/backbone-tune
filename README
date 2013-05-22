@@ -1,16 +1,16 @@
-Simple Model: A backbone.js demo
-==================================
+Simple backbone.js music player
 
-This demo loads only a simple model and view. It displays no content and must be driven from the command line.
+Built using peepcode tutorial
+
+not yet finished
 
 USAGE
 =====
 
 Run:
-
+    bundle install
     rake server
 
-Visit the webserver at:
-
+server located in:
     http://localhost:9292
 
