@@ -1,0 +1,72 @@
+[{
+    "title": "Room on Fire",
+    "artist": "The Strokes",
+    "tracks": [{
+        "title": "What Ever Happened?",
+        "url": "/music/blue.mp3"
+    },
+    {
+        "title": "Reptilia",
+        "url": "/music/jazz.mp3"
+    },
+    {
+        "title": "Automatic Stop",
+        "url": "/music/minimalish.mp3"
+    },
+    {
+        "title": "12:51",
+        "url": "/music/slower.mp3"
+    },
+    {
+        "title": "You Talk Way Too Much",
+        "url": "/music/blue.mp3"
+    },
+    {
+        "title": "Between Love and Hate",
+        "url": "/music/jazz.mp3"
+    },
+    {
+        "title": "Under Control",
+        "url": "/music/minimalish.mp3"
+    },
+    {
+        "title": "The Way It Is",
+        "url": "/music/slower.mp3"
+    },
+    {
+        "title": "The End Has No End",
+        "url": "/music/blue.mp3"
+    },
+    {
+        "title": "I Can't Win",
+        "url": "/music/jazz.mp3"
+    },
+    {
+        "title": "Tunnel At The End Of Light",
+        "url": "/music/minimalish.mp3"
+    }]
+},
+{
+    "title": "London Calling",
+    "artist": "The Clash",
+    "tracks": [{
+        "title": "London Calling",
+        "url": "/music/blue.mp3"
+    },
+    {
+        "title": "Brand New Cadillac",
+        "url": "/music/jazz.mp3"
+    },
+    {
+        "title": "Jimmy Jazz",
+        "url": "/music/minimalish.mp3"
+    },
+    {
+        "title": "Hateful",
+        "url": "/music/slower.mp3"
+    },
+    {
+        "title": "Rudie Can't Fail",
+        "url": "/music/blue.mp3"
+    }]
+}]
